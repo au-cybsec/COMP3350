@@ -3,10 +3,10 @@ COMP 3350 - Auburn University Computer Organization and Assembly Language Progra
 Xeuchao Li (Fall 2020)
 
 
-Project 1 - (88)/n
+Project 1 - (88)
 Docx file covering basics from prerequisite classes
 
-Project 2 - /n 
+Project 2 - 
 Create an assembly language program to take parts of an array and add a variable to them, then insert them into EAX-EDX
 
-Project 3 - /n
+Project 3 - 
